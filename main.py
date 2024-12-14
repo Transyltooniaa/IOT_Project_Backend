@@ -67,4 +67,4 @@ def realtime_face_recognition():
 # face_recognition(img)
 
 # Perform real-time face recognition using the webcam
-# realtime_face_recognition()
+realtime_face_recognition()
